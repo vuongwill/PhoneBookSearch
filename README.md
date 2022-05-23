@@ -1,6 +1,6 @@
 # PhoneBookSearch
  
-https://github.com/vuongwill/PhoneBookSearch/blob/main/search.png?raw=true
+<img src="https://github.com/vuongwill/PhoneBookSearch/blob/main/search.png">
 
 ## Description
 An application that searches through a phone book database until it finds a matching name.  
