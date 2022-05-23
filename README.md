@@ -4,4 +4,4 @@
 
 ## Description
 An application that searches through a phone book database until it finds a matching name.  
-I added a cut off for bubble sort that reverts to linear sort after a certain amount of time.
+Because bubble sort has the the worst time complexity (several hours with my 1000000+ database), the program has a cut off. It will revert back to linear search after the cut off point.
