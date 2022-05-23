@@ -1,0 +1,19 @@
+[1;31m
+Start test 1[0m
+$Start searching (linear search)...
+<Found 500 / 500 entries. Time taken: 0 min. 2 sec. 982 ms.
+
+0Start searching (bubble sort + jump search)...
+=Found 500 / 500 entries. Time taken: 0 min. 37 sec. 956 ms.
+GSorting time: 0 min. 35 sec. 39 ms. - STOPPED, moved to linear search
+'Searching time: 0 min. 2 sec. 917 ms.
+
+1Start searching (quick sort + binary search)...
+>Found: 500 / 500 entries. Time taken: 0 min. 15 sec. 878 ms.
+&Sorting time: 0 min. 15 sec. 875 ms.
+%Searching time: 0 min. 0 sec. 3 ms.
+
+!Start searching (hash table)...
+=Found: 500 / 500 entries. Time taken: 0 min. 1 sec. 255 ms.
+&Creating time: 0 min. 1 sec. 254 ms.
+%Searching time: 0 min. 0 sec. 1 ms.
